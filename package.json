@@ -1,0 +1,16 @@
+{
+  "name": "twitter-to-speech",
+  "version": "0.0.1",
+  "description": "",
+  "main": "generate.js",
+  "dependencies": {
+    "say": "^0.16.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "run": "node generate.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
